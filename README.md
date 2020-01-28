@@ -1,4 +1,4 @@
 # ContextAPI-training
 
-GIT CLONE
-NPM INSTALL
+*-GIT CLONE
+*-NPM INSTALL
